@@ -1,3 +1,20 @@
+
+//basic skeleton
+//data-type
+//input-output
+//if-else
+//for loop
+//while loop
+//switch case
+//arrays
+//strings
+//functions
+//pass by value and pass by reference
+
+
+
+
+
 Note: It will not work if your default terminal is Powershell. Make it "cmd" then it will work.
 To change default terminal : Hit clt+shift+p->write:default terminal->change it to cmd.
 
